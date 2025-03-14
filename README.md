@@ -1,3 +1,3 @@
-  #              Hi 👋, I'm Betrix-ID
+   #               Hi 👋, I'm Betrix-ID
 
-  ##         Saya adalah developer nonroot C
+  ###         Saya adalah developer nonroot C
