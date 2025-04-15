@@ -1,8 +1,8 @@
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=10/10&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Unic!;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=10/10&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pai!;I'm+developer;C+Cpp " />
 </h1>
 <h3 align="center">A Nonroot C and C++ script developer, who is highly enthusiastic about Linux technology. </h3>
 
-![git text](/pop.png)
+![git text](/IFS.png)
 
 <h5 align="center">nothing is impossible, as long as you are willing to try . <hr/>
    
