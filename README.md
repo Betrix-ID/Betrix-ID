@@ -9,24 +9,28 @@
 ![gif ular](https://github.com/Betrix-ID/Betrix-ID/blob/output/github-contribution-grid-snake.svg)
 
 ###
-<div align=center>
-</div>
-<img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=Betrix-ID&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
-<hr/>
-<img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Betrix-ID&count_private=true&theme=nightowl&border_radius=10" alt="streak stats"/>
-<br/>
-<hr/>
-<img width=400 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Betrix-ID&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=Betrix-ID&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
+  <hr/>
+  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Betrix-ID&count_private=true&theme=nightowl&border_radius=10" alt="streak stats"/>
+  <hr/>
+  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Betrix-ID&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 ###
 <hr/>
 <br/>
 <div align="center">
-  <a href='https://saweria.co/Uniccc' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='https://saweria.co/images/logo.svg' border='0' alt='Donate via Saweria' />
+  <a href="https://saweria.co/Uniccc" target="_blank" style="display: inline-block; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.2s ease;">
+    <img src="https://saweria.co/images/logo.svg" alt="Donate via Saweria" height="64" style="display: block; border: 0; height: 64px;">
   </a>
 </div>
+
+<style>
+  a:hover {
+    transform: scale(1.05);
+  }
+</style>
 
 ###
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
