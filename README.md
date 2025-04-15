@@ -21,16 +21,10 @@
 <hr/>
 <br/>
 <div align="center">
-  <a href="https://saweria.co/Uniccc" target="_blank" style="display: inline-block; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.2s ease;">
-    <img src="https://saweria.co/images/logo.svg" alt="Donate via Saweria" height="64" style="display: block; border: 0; height: 64px;">
+  <a href='https://saweria.co/Uniccc' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='https://saweria.co/images/logo.svg' border='0' alt='Donate via Saweria' />
   </a>
 </div>
-
-<style>
-  a:hover {
-    transform: scale(1.05);
-  }
-</style>
 
 ###
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
