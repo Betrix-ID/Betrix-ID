@@ -9,10 +9,6 @@
 ![gif ular](https://github.com/Betrix-ID/Betrix-ID/blob/output/github-contribution-grid-snake.svg)
 
 ###
-<hr/>
-<br/>
-<div align="center">
-<a href='https://ko-fi.com/illumi666' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://saweria.co/Uniccc' border='0' alt='Support Me saweria' /></a>
-
-###
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
+
+
