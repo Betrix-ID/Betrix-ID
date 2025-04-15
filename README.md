@@ -17,7 +17,6 @@
   <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Betrix-ID&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-###
 [![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/Uniccc)
 
 ###
