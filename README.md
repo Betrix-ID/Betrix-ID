@@ -19,11 +19,18 @@
 
 ###
 <div align="center">
-  <a href="https://saweria.co/Uniccc" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-flex; align-items: center; background-color: #f5f5f5; border-radius: 12px; padding: 10px 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: 0.3s;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Saweria_logo.png/320px-Saweria_logo.png" alt="Saweria" height="24" style="margin-right: 10px;" />
-      <span style="color: #000; font-weight: bold;">Donasi via Saweria</span>
-    </div>
+  <a href="https://saweria.co/Uniccc" target="_blank" style="
+    background-color: #f4b400;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 6px;
+    font-family: sans-serif;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    display: inline-block;
+  ">
+    SAWERIA
   </a>
 </div>
 
