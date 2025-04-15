@@ -2,4 +2,6 @@
 </h1>
 <h3 align="center">A Nonroot C and C++ script developer, who is highly enthusiastic about Linux technology. </h3>
 
+![git text](/IFS.png)
+
 ![gif ular](https://github.com/Betrix-ID/Betrix-ID/blob/output/github-contribution-grid-snake.svg)
