@@ -4,4 +4,16 @@
 
 ![git text](/IFS.png)
 
+<h5 align="center">nothing is impossible, as long as you are willing to try . <hr/>
+
 ![gif ular](https://github.com/Betrix-ID/Betrix-ID/blob/output/github-contribution-grid-snake.svg)
+
+###
+<hr/>
+<br/>
+<div align="center">
+<a href='https://ko-fi.com/illumi666' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+###
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
+
