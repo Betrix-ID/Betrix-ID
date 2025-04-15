@@ -2,8 +2,8 @@
 </h1>
 <h3 align="center">A Nonroot C and C++ script developer, who is highly enthusiastic about Linux technology. </h3>
 
-![git text](/pop.png)
-
+   ![git text](/pop.png)
+   
 <h5 align="center">nothing is impossible, as long as you are willing to try . <hr/>
    
 [![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/Uniccc)
