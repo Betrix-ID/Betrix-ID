@@ -18,9 +18,7 @@
 </div>
 
 ###
-<div align="center">
 [![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/Uniccc)
-</div>
 
 ###
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
