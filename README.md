@@ -19,19 +19,7 @@
 
 ###
 <div align="center">
-  <a href="https://saweria.co/Uniccc" target="_blank" style="
-    background-color: #f4b400;
-    color: white;
-    padding: 10px 20px;
-    text-decoration: none;
-    font-weight: bold;
-    border-radius: 6px;
-    font-family: sans-serif;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    display: inline-block;
-  ">
-    SAWERIA
-  </a>
+[![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/Uniccc)
 </div>
 
 ###
