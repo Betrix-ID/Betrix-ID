@@ -12,8 +12,7 @@
 <hr/>
 <br/>
 <div align="center">
-<a href='https://ko-fi.com/illumi666' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/illumi666' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://saweria.co/Uniccc' border='0' alt='Support Me saweria' /></a>
 
 ###
-<img src="https://saweria.co/Uniccc" width="100%" height="100">
-
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
