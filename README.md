@@ -5,6 +5,8 @@
 ![git text](/IFS.png)
 
 <h5 align="center">nothing is impossible, as long as you are willing to try . <hr/>
+   
+[![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/Uniccc)
 
 ![gif ular](https://github.com/Betrix-ID/Betrix-ID/blob/output/github-contribution-grid-snake.svg)
 
@@ -16,8 +18,6 @@
   <hr/>
   <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Betrix-ID&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-[![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/Uniccc)
 
 ###
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
