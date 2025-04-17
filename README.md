@@ -23,6 +23,14 @@
   <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Betrix-ID&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+
+<h5 align="center">my Github inspiration  . <hr/>
+   
+[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logoColor=white)](https://github.com/DEMONICCA?tab=repositories)
+
+
+   
+
 ###
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 
