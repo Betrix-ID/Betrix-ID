@@ -11,8 +11,14 @@
 [![Saweria](https://img.shields.io/badge/-Saweria-yellow?style=for-the-badge&logoColor=white)](https://saweria.co/Uniccc)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logoColor=white)](https://t.me/Yeye_PID)
 
+----
 
 ![gif ular](https://github.com/Betrix-ID/Betrix-ID/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source srcset="link-ke-dark-theme.svg" media="(prefers-color-scheme: dark)">
+  <img src="link-ke-light-theme.svg" alt="GitHub Snake">
+</picture>
 
 ###
 <div align="center">
@@ -22,6 +28,8 @@
   <hr/>
   <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Betrix-ID&hide=HTML&langs_count=8&layout=compact&theme=nightowl&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+--
 
 
 <h5 align="center">my Github inspiration  . <hr/>
